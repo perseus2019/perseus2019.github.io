@@ -1,6 +1,7 @@
 {
+  "languages": [
     { "language": "af", "value": 0 },
-    { "language": "ar", "value": 50},
+    { "language": "ar", "value": 0 },
     { "language": "eu", "value": 0 },
     { "language": "be", "value": 0 },
     { "language": "bg", "value": 0 },
@@ -38,8 +39,9 @@
     { "language": "th", "value": 0 },
     { "language": "tr", "value": 0 },
     { "language": "uk", "value": 0 },
-    { "language": "vi", "value": 10 },
+    { "language": "vi", "value": 0 },
     { "language": "zh-CN", "value": 0 },
     { "language": "zh-TW", "value": 0 },
     { "language": "hi", "value": 0 }
+  ]
 }
