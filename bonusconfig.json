@@ -1,18 +1,16 @@
-[
-  {
-    "language": "en",
-    "value": 0
-  },
-  {
-    "language": "vi",
-    "value": 0
-  },
-  {
-    "language": "es",
-    "value": 50
-  },
-  {
-    "language": "fr",
-    "value": 50
-  }
-]
+{
+  "languages": [
+    {
+      "language": "en",
+      "value": 75
+    },
+    {
+      "language": "vi",
+      "value": 10
+    },
+    {
+      "language": "es",
+      "value": 80
+    }
+  ]
+}
