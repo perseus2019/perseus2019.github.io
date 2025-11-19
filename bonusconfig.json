@@ -1,16 +1,47 @@
 {
   "languages": [
-    {
-      "language": "en",
-      "value": 75
-    },
-    {
-      "language": "vi",
-      "value": 10
-    },
-    {
-      "language": "es",
-      "value": 80
-    }
+    { "language": "af", "value": 0 },
+    { "language": "ar", "value": 0 },
+    { "language": "eu", "value": 0 },
+    { "language": "be", "value": 0 },
+    { "language": "bg", "value": 0 },
+    { "language": "ca", "value": 0 },
+    { "language": "zh", "value": 0 },
+    { "language": "cs", "value": 0 },
+    { "language": "da", "value": 0 },
+    { "language": "nl", "value": 0 },
+    { "language": "en", "value": 0 },
+    { "language": "et", "value": 0 },
+    { "language": "fo", "value": 0 },
+    { "language": "fi", "value": 0 },
+    { "language": "fr", "value": 0 },
+    { "language": "de", "value": 0 },
+    { "language": "el", "value": 0 },
+    { "language": "he", "value": 0 },
+    { "language": "hu", "value": 0 },
+    { "language": "is", "value": 0 },
+    { "language": "id", "value": 0 },
+    { "language": "it", "value": 0 },
+    { "language": "ja", "value": 0 },
+    { "language": "ko", "value": 0 },
+    { "language": "lv", "value": 0 },
+    { "language": "lt", "value": 0 },
+    { "language": "no", "value": 0 },
+    { "language": "pl", "value": 0 },
+    { "language": "pt", "value": 0 },
+    { "language": "ro", "value": 0 },
+    { "language": "ru", "value": 0 },
+    { "language": "sh", "value": 0 },
+    { "language": "sk", "value": 0 },
+    { "language": "sl", "value": 0 },
+    { "language": "es", "value": 0 },
+    { "language": "sv", "value": 0 },
+    { "language": "th", "value": 0 },
+    { "language": "tr", "value": 0 },
+    { "language": "uk", "value": 0 },
+    { "language": "vi", "value": 10 },
+    { "language": "zh-CN", "value": 0 },
+    { "language": "zh-TW", "value": 0 },
+    { "language": "hi", "value": 0 }
   ]
 }
