@@ -1,7 +1,7 @@
 {
   "languages": [
     { "a": "af", "value": 0 },
-    { "language": "ar", "value": 50 },
+    { "language": "ar", "value": 50, "s" : 70},
     { "language": "eu", "value": 0 },
     { "language": "be", "value": 0 },
     { "language": "bg", "value": 0 },
