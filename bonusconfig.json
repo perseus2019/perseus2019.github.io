@@ -1,1 +1,8 @@
-{ "languages": { "en": 100, "vi": 100, "fr": 50, "th": 0 } }
+{
+  "languages": [
+    { "language": "en", "value": 100 },
+    { "language": "vi", "value": 100 },
+    { "language": "fr", "value": 50 },
+    { "language": "th", "value": 0 }
+  ]
+}
