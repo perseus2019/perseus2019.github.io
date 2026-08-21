@@ -1,6 +1,6 @@
 https://play.google.com/store/apps/details?id=com.cvtgames.Bomberman
 https://play.google.com/store/apps/details?id=com.perseusgames.racingcar
 https://play.google.com/store/apps/details?id=com.perseusgames.brickgame.retrogames
-http://perseusgames.org/GameIcon/Bomb.png
-http://perseusgames.org/GameIcon/CarRacing.png
-http://perseusgames.org/GameIcon/2.png
+https://perseus2019.github.io/GameIcon/Bomb.png
+https://perseus2019.github.io/GameIcon/CarRacing.png
+https://perseus2019.github.io/GameIcon/2.png
